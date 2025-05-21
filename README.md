@@ -13,7 +13,6 @@
         <ul>
             <li>agregar un h2</li>
             <li>y lo que dice el h2: es algo sobre los paisajes</li>
-            
         </ul>
         <h2>Cambios en sesion:</h2>
         <ul>
